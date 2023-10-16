@@ -1,0 +1,17 @@
+public class Main
+	{
+  		public static void main(String[] args) 
+  			{
+  				String newline=System.lineSeparator();
+ 				System.out.println("Lovely D. Pantaleon");
+ 	 			System.out.println("BSIT 2F"); 
+  				System.out.println("22-00976");
+				System.out.println("\r\n");
+				System.out.println("==========MISSION=========="); 
+				System.out.println("Colegio De Montalban educates" + newline + "students to become globally " + newline + "competetive professionals and" + newline + "value oriented individuals who" + newline + "can contribute their experience" + newline + "to the community.");
+    
+				System.out.println("\r\n");
+				System.out.println("==========VISION==========");
+				System.out.println("In the pursuit of exellence, " +newline +  "Colegio De Montalban is committed" +newline +  "in transforming individuals into" +newline +  "responsible, productive, and" +newline + "globally competetive citizens.");
+  			}
+	}
